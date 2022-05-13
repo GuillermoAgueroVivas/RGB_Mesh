@@ -10,7 +10,5 @@ User can change the values of 4 properties related to the 4 modifiers applied af
 runs and the the operator pop-up comes up. Using F3 and searching 'RGB Mesh' and selecting it 
 will allow you to use the properties after this script has ran.
 
-###
-
 Best way to run the script is using the 'Scripting' window in Blender in which you can open the 'RGB_Mesh.py' file, run it and then later go back to the regular
 layout and search for 'RGB Mesh' utilizing 'F3' to search within the list of operators.

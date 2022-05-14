@@ -6,9 +6,8 @@ utilizing python in Blender. The tool itself was a challange to myself in which 
 I wanted to create a mix of modifiers and get a random result and this one turned out to be an
 interesting looking combination.
   
-User can change the values of 4 properties related to the 4 modifiers applied after the script
-runs and the the operator pop-up comes up. Using F3 and searching 'RGB Mesh' and selecting it 
-will allow you to use the properties after this script has ran.
+- User can change the values of 4 properties related to the 4 modifiers applied after the script
+runs and the operator pop-up comes up. 
 
-Best way to run the script is using the 'Scripting' window in Blender in which you can open the 'RGB_Mesh.py' file, run it and then later go back to the regular
+- Best way to run the script is using the 'Scripting' window in Blender in which you can open the 'RGB_Mesh.py' file, run it and then later go back to the regular
 layout and search for 'RGB Mesh' utilizing 'F3' to search within the list of operators.

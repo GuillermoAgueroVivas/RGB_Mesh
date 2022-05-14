@@ -4,7 +4,7 @@ This is a script for Blender which was made with the purpose of teaching myself 
 This script represents my journey through learning how to manipulate an object and a scene 
 utilizing python in Blender. The tool itself was a challange to myself in which I decided
 I wanted to create a mix of modifiers and get a random result and this one turned out to be an
-interesting looking combination.
+interesting looking combination. Here you get to see the result after lots of troubleshooting.
   
 - User can change the values of 4 properties related to the 4 modifiers applied after the script
 runs and the operator pop-up comes up. 
